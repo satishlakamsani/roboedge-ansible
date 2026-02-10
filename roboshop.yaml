@@ -28,3 +28,8 @@
     
     loop: "{{ instances }}"
     register: ec2-output
+  
+  - name: print the output 
+    ansible.builtin.debug:
+     msg: "{{ ec2-output }}"
+    
