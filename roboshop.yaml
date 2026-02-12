@@ -5,7 +5,7 @@
   vars:
    sg_id: sg-0fd8d557c62aa017e
    ami_id: ami-0220d79f3f480ecf5
-   domain_name: pugasaha.online
+   domain_name: pugasaha.onlin
    env: dev
    action: create
    instances:
