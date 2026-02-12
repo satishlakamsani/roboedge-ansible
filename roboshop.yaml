@@ -10,7 +10,7 @@
    action: create
    instances:
    - mongodb
-   - catalogue
+   #- catalogue
 
   tasks:
   ### CREATE #####
