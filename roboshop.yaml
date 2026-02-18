@@ -3,7 +3,7 @@
   hosts: all
   connection: local
   vars:
-   sg_id: sg-014cc13b8ba4e6fb9           #sg-0fd8d557c62aa017e
+   sg_id: sg-0fd8d557c62aa017e
    ami_id: ami-0220d79f3f480ecf5
    domain_name: pugasaha.online
    env: dev
